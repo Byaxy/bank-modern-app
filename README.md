@@ -1,6 +1,6 @@
 # HooBank Website
 
-![HooBank screenshot]("./public/images/hoobank.png")
+![HooBank screenshot](./public/images/hoobank.png)
 
 <div align="center">
      <img src="./public/images/desktop.png" alt="Desktop view" width="300" height="200" />
