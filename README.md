@@ -20,7 +20,7 @@ The figma design is by JS-Mastery. I made a few changes on the design to make th
 
 The live website is deployed and hosted on firebase. You can find the link to the live website below.
 
-[Live Website](https://openai-gpt3.web.app)
+[Live Website](https://modern-bank-web-app.web.app/)
 
 #### Key Lessons Learnt:
 
